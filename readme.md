@@ -7,4 +7,4 @@ Repositorio com alguns tf para automatiza a infra na aws
 ### Testes de Conectividade 
 * Vamos testar a conectividade da Instancia EC2 
 
-#Criação de Bancos RDS
+# riação de Bancos RDS
